@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Currently, I am a Research Fellow at [Event Driven Perception for Robotics](https://edpr.iit.it/) at [Istituto Italiano di Tecnologia](https://www.iit.it/), working with [Dr. Chiara Bartolozzi](https://edpr.iit.it/people-details/-/people/chiara-bartolozzi) and [Dr. Arren Glover](https://arrenglover.github.io/).  I obtained M.Sc degrees from King's College London in 2022, and my B.Sc degree from Capital University of Economics and Business in 2020.
+Currently, I am a Research Fellow at [Event Driven Perception for Robotics](https://edpr.iit.it/) at [Istituto Italiano di Tecnologia](https://www.iit.it/), working with [Dr. Chiara Bartolozzi](https://edpr.iit.it/people-details/-/people/chiara-bartolozzi) and [Dr. Arren Glover](https://arrenglover.github.io/).  I obtained M.Sc degree from King's College London in 2022, and my B.Sc degree from Capital University of Economics and Business in 2020.
 
 <!-- Previously, I was also an visiting student at [the Mobile Perception Lab](https://mpl.sist.shanghaitech.edu.cn/) at ShanghaiTech University from October 2022 to October 2023, under the supervision of Prof. Dr. [Laurent Kneip](https://mpl.sist.shanghaitech.edu.cn/Director.html). -->
 
