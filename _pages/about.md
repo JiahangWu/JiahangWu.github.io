@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Fellow at IIT
 
 profile:
   align: right
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Currently, I am a Research Fellow at [Event Driven Perception for Robotics](https://edpr.iit.it/) at [Istituto Italiano di Tecnologia](https://www.iit.it/), working with [Dr. Chiara Bartolozzi](https://edpr.iit.it/people-details/-/people/chiara-bartolozzi) and [Dr. Arren Glover](https://arrenglover.github.io/).  I obtained M.Sc degrees from King's College London in 2022, and my B.Sc degree from Capital University of Economics and Business.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<!-- Previously, I was also an visiting student at [the Mobile Perception Lab](https://mpl.sist.shanghaitech.edu.cn/) at ShanghaiTech University from October 2022 to October 2023, under the supervision of Prof. Dr. [Laurent Kneip](https://mpl.sist.shanghaitech.edu.cn/Director.html). -->
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them 
+My research interests lie in computer vision and robotics, especially using event cameras. Currently, I am working on event-based motion estimation and environment understanding. My research objective is to develop algorithms that shift traditional visual paradigms toward the great potential of event cameras, including HDR, low latency, high temporal resolution, etc.
