@@ -459,7 +459,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Jiahang Wu", "_blank");
+          window.open("https://www.linkedin.com/in/jiahang-wu-81a91126b", "_blank");
         },
       },{
         id: 'social-scholar',
