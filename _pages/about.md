@@ -29,4 +29,4 @@ Currently, I am a Research Fellow at [Event Driven Perception for Robotics](http
 
 <!-- Previously, I was also an visiting student at [the Mobile Perception Lab](https://mpl.sist.shanghaitech.edu.cn/) at ShanghaiTech University from October 2022 to October 2023, under the supervision of Prof. Dr. [Laurent Kneip](https://mpl.sist.shanghaitech.edu.cn/Director.html). -->
 
-My research interests lie in computer vision and robotics, especially using event cameras. Currently, I am working on event-based motion estimation and environment understanding. My research objective is to develop algorithms that shift traditional visual paradigms toward the great potential of event cameras, including HDR, low latency, high temporal resolution, etc.
+My research interests lie in computer vision and robotics, especially using event cameras. Currently, I am working on event-based motion estimation and environment understanding. My research objective is to develop algorithms that shift traditional visual paradigms toward event cameras.
